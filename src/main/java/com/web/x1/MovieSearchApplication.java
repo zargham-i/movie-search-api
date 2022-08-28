@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieSearchApiApplication {
+public class MovieSearchApplication {
     public static void main(String[] args) {
-        SpringApplication.run(MovieSearchApiApplication.class, args);
+        SpringApplication.run(MovieSearchApplication.class, args);
     }
 }
