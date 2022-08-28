@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.web.x1</groupId>
-    <artifactId>project-X1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>project-X1</name>
-    <description>project-X1</description>
+    <artifactId>movie-search-api</artifactId>
+    <version>0.0.1</version>
+    <name>movie-search-api</name>
+    <description>movie-search-api</description>
     <properties>
         <java.version>17</java.version>
     </properties>
